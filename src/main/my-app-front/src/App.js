@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        이 기기의 IP주소는 {ip}입니다, 소명 브런치 연결 확인 문구
+        이 기기의 IP주소는 {ip}입니다, 소명 브런치 연결 확인 문구2
       </header>
     </div>
   );
